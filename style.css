@@ -1,0 +1,17 @@
+#header {
+    background-color: rgba(0, 0, 139, 0.686);
+    color: rgb(178, 14, 14);
+    padding: 15px;
+}
+
+#main {
+    background-color: rgb(50, 201, 42);
+    border: 1px solid rgb(28, 71, 215);
+    padding: 15px;
+}
+
+#footer {
+    background-color: rgb(218, 77, 131);
+    color: rgb(252, 53, 53);
+    padding: 15px;
+}
